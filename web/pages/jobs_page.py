@@ -1,5 +1,5 @@
-from web.base_screen import BaseScreen
 from utils.constants import CSS
+from web.base_screen import BaseScreen
 
 
 class JobsPage(BaseScreen):
