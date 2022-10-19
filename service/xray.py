@@ -1,8 +1,8 @@
 import requests
 from loguru import logger
 
-from data_model.test_data import TestData
-from services.base_api import BaseAPI
+from model.test_data import TestData
+from service.base_api import BaseAPI
 from utils.common import get_env_var
 
 data = TestData()

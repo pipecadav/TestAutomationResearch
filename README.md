@@ -38,7 +38,7 @@ pre-commit install
 
 
 ### XRAY Implementation ###
-WIP 
+WIP
 
 
 ### Commit Follow Standard ###

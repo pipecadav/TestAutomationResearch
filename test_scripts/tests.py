@@ -1,5 +1,5 @@
-from web.pages.jobs_page import JobsPage
 from utils.check import Check
+from web.pages.jobs_page import JobsPage
 
 check = Check()
 

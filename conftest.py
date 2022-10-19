@@ -2,11 +2,11 @@ import pytest
 from _pytest.fixtures import fixture
 from loguru import logger as log
 
-from screens.base_screen import BaseScreen
-from services.xray import XrayAPI
+from service.xray import XrayAPI
 from utils.common import get_current_time
 from utils.constants import XRAY_DATE
 from utils.driver import Driver
+from web.base_screen import BaseScreen
 
 driver = Driver()
 
