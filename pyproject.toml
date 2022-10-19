@@ -1,0 +1,11 @@
+[tool.isort]
+profile = "black"
+
+[tool.interrogate]
+ignore-module = true
+fail-under = 100
+# possible values: 0 (minimal output), 1 (-v), 2 (-vv)
+verbose = 1
+quiet = false
+color = true
+omit-covered-files = true

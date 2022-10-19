@@ -1,0 +1,17 @@
+lib/
+bin/
+include/
+.Python/
+allure-report/
+output/
+env/
+.env
+.venv/
+/pythonenv*/
+build/
+__pycache__
+.idea/
+.pytest_cache/
+.DS_Store
+pytestdebug.log
+.mypy_cache/
